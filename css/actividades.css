@@ -1,0 +1,43 @@
+﻿#cajas .contenedor{
+
+	width: 85%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#cajas h2{
+	font-size: 28px;
+	text-align: center;
+}
+
+#bienvenido{
+	margin-top: 5px;
+	width: 100%;
+	height: 630px;
+	background-color: #808080;
+	border-radius: 0.5em;
+}
+
+#bienvenido h2{
+    line-height:10px;
+	padding-top:30px;
+	/*margin-left:40px;*/
+	text-align: center;
+	height: 30px;
+	color: #FFF; 
+}
+
+#bienvenido div{
+	line-height:5px;
+	width: 82%;
+	margin-top: 35px;
+	margin-left:100px;
+	margin-bottom: -10px;
+	/*background: red;*/
+}
+#bienvenido iframe{
+	line-height:5px;
+	width: 82%;
+	margin-left:100px;
+}
+
